@@ -1,0 +1,34 @@
+.custom_header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(185, 185, 243);
+    color: white;
+    color: rgb(19, 18, 18);
+    height: 100%;
+    width: 100%;
+}
+h1{
+font-size: 2.5em;
+letter-spacing: .4em;
+font-weight: 800;
+text-align: center;
+}
+
+button{
+    position: relative;
+    height: 50px;
+    width: 10vw;
+    font-size: 1em;
+    left: 30%;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(241, 237, 237);
+    color: rgb(115, 115, 182);
+    color: black;
+    font-weight: 700;
+    border-radius: 7px; 
+    margin-top: 25px;
+    border: 1px solid rgb(115, 115, 182);
+    box-shadow: 1px 2px 3px -5px rgb(241, 237, 237);
+   
+}

@@ -1,0 +1,17 @@
+.searchInput {
+    width: 400px;
+    padding: 12px 20px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    margin-left: 600px;
+    border-radius: 3px;
+    font-size: 20px;
+    border: none;
+    border-bottom: 3px solid rgb(128, 128, 241);
+    border-top:  1px solid rgb(212, 210, 210);
+    border-right: 1px solid rgb(228, 223, 223);
+    border-left: 1px solid rgb(238, 237, 237);
+    outline: none;
+    text-transform: capitalize;
+   text-align: center;
+  }
